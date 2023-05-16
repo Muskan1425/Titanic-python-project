@@ -1,6 +1,9 @@
 # Titanic-python-project
 This GitHub repository contains a comprehensive Python-based data analysis and machine learning project focused on the Titanic dataset. The project aims to explore the dataset, perform data preprocessing, and build predictive models to determine the likelihood of survival for passengers aboard the Titanic.
 
+![BgpfRXvbfJqiceXCEg5eCi](https://github.com/Muskan1425/Titanic-python-project/assets/109355729/e7e09130-f779-4199-bc87-c2da7c81bdaf)
+
+
 # Key Features:
 
 **Dataset Exploration**: The repository provides detailed exploration and analysis of the Titanic dataset, including statistical summaries, data visualization, and insights into the variables present.
